@@ -15,7 +15,7 @@ Component Archeticture
 
 Navigation Graph
 
-Pagging 
+Paging 
 
 
 
